@@ -43,10 +43,8 @@ static char *font = "Iosevka Term SS12:pixelsize=16:antialias=true:autohint=true
 /* Spare fonts */
 static char *font2[] = {
   "IosevkaTerm Nerd Font Mono:pixelsize=22:antialias=true:autohint=true",
-  "Noto Sans CJK:pixelsize=12:antialias=true:autohint=true",
-  "Literation Mono Nerd Font:pixelsize=12:antialias=true:autohint=true",
-  "Noto Color Emoji:pixelsize=12:antialias=true:autohint=true",
-  "MesloLGS NF:pixelsize=12:antialias=true:autohint=true",
+  "Sarasa Term Slab CL:pixelsize=12:antialias=true:autohint=true",
+  "Noto Color Emoji:pixelsize=16:antialias=true:autohint=true",
 };
 
 static int borderpx = 4;
